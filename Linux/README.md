@@ -5,7 +5,7 @@ Best Guide of Linux and Windows
 # Linux
 
 
-- [Icons](https://github.com/SteavenGamerYT/steaven-best-scripts/tree/main/Linux/Icons)
+- [Icons](https://github.com/SteavenGamerYT/steaven-best-guides/tree/main/Linux/Icons)
 
 
-- [Desktop Environment](https://github.com/SteavenGamerYT/steaven-best-scripts/tree/main/Linux/Desktop%20Environment)
+- [Desktop Environment](https://github.com/SteavenGamerYT/steaven-best-guides/tree/main/Linux/Desktop%20Environment)
