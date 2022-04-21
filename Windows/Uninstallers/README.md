@@ -1,5 +1,5 @@
 # Steaven Best Scripts
-Best Colletion of Linux and Windows Scripts
+Best Guide of Linux and Windows
 
 
 # Uninstallers
