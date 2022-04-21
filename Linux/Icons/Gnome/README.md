@@ -1,5 +1,5 @@
 # Steaven Best Scripts
-Best Guide of Linux and Windows
+Best Guide for Linux and Windows
 
 
 # Ubuntu 18.04 Lts (or Above)
