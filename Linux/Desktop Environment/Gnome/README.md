@@ -2,8 +2,6 @@
 Best Colletion of Linux and Windows Scripts
 
 
-# Desktop Environment
-
 
 # Gnome
 
