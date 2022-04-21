@@ -2,7 +2,7 @@
 Best Colletion of Linux and Windows Scripts
 
 
-# Gnome
+# Kde
 
 
 # Ubuntu 18.04 Lts (or Above) and also Beasd Distros
@@ -20,10 +20,10 @@ without blot
 sudo apt update && sudo apt install --no-install-recommends kubuntu-desktop && sudo apt install sddm
 
 
-systemctl enable sddm.service
+sudo systemctl enable sddm.service
 
 
-systemctl enable NetworkManager.service
+sudo systemctl enable NetworkManager.service
 
 
 # Arch or Manjaro
@@ -32,10 +32,10 @@ systemctl enable NetworkManager.service
 sudo pacman -Sy xorg plasma plasma-wayland-session kde-applications 
 
 
-systemctl enable sddm.service
+sudo systemctl enable sddm.service
 
 
-systemctl enable NetworkManager.service
+sudo systemctl enable NetworkManager.service
 
 
 # Fedora
