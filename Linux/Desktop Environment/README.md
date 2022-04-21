@@ -5,4 +5,4 @@ Best Colletion of Linux and Windows Scripts
 # Desktop Environment
 
 
-- [Gnome](ht)
+- [Gnome](https://github.com/SteavenGamerYT/steaven-best-scripts/tree/main/Linux/Desktop%20Environment/Gnome)
