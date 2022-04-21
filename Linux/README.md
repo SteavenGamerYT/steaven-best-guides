@@ -1,5 +1,5 @@
-# Steaven Best Scripts
-Best Guide for Linux and Windows
+# Steaven Best Guides
+Best Guides for Linux and Windows
 
 
 # Linux

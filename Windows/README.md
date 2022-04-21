@@ -1,8 +1,8 @@
-# Steaven Best Scripts
-Best Guide for Linux and Windows
+# Steaven Best Guides
+Best Guides for Linux and Windows
 
 
 # Windows
 
 - [Bypass Windows 11 Req](https://github.com/SteavenGamerYT/steaven-best-guides/tree/main/Windows/Bypass%20Windows%2011%20Req)
-- [Uninstallers](https://github.com/SteavenGamerYT/steaven-best-guides/tree/main/Windows/Uninstallers)
+- [Debloting](https://github.com/SteavenGamerYT/steaven-best-guides/tree/main/Windows/Debloting)
