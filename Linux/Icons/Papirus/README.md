@@ -26,6 +26,14 @@ To install the  latest version of Papirus icons on Arch or Manjaro.
 pacman -Sy papirus-icon-theme
 
 
+# Fedora
+
+To install the  latest version of Papirus icons on Fedora.
+
+
+sudo dnf install papirus-icon-theme
+
+
 # Manunly
 
 Manunly (hard but works for any distro)
